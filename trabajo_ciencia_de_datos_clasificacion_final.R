@@ -11,8 +11,6 @@ library(dplyr)
 
 #Trabajo EDA (bupa)
 
-setwd("C:/Users/Usuario/Desktop/Universidad/Máster en Ciencia de Datos/Introducción a la ciencia de datos/Datasets Clasificacion/bupa")
-
 #-------------------------------------------------------------------------------
 #Importamos el dataset
 bupa <- read.csv("bupa.dat", comment.char="@", header = FALSE)
