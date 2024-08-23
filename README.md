@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-Hi this is my Data Science portfolio
+Hi, this is my Data Science portfolio
