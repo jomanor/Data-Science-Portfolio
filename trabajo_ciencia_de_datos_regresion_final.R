@@ -10,8 +10,6 @@ library(caret)
 
 #Trabajo EDA (california)
 
-setwd("C:/Users/Usuario/Desktop/Universidad/Máster en Ciencia de Datos/Introducción a la ciencia de datos/Datasets Regresion/california")
-
 #-------------------------------------------------------------------------------
 
 #Importamos el dataset
@@ -231,10 +229,11 @@ print(rbind(shapiro_yeo, shapiro_log))
 
 
 #-------------------------------------------------------------------------------
+
 #R-1: Selección de las 5 variables más importantes, Para seleccionar las cinco 
 #variables más importantes, podríamos basarnos en un análisis de correlación con
 #la variable dependiente (MedianHouseValue) y elegir aquellas variables que muestren 
-#una mayor correlación.Se utiliza el conjunto de datos completo.
+#una mayor correlación. Se utiliza el conjunto de datos completo.
 
 # Calcular la correlación con MedianHouseValue
 correlaciones <- cor(calif)
@@ -296,6 +295,7 @@ ggplot(calif, aes(x = MedianIncome, y = MedianHouseValue)) +
        y = "Valor Mediano de la Casa")
 
 #-------------------------------------------------------------------------------
+
 #R-2: Usar regresión lineal múltiple. Justificar si aporta mejoras respecto al 
 #modelo lineal simple. Tener en cuenta no linealidad e interacciones.
 
