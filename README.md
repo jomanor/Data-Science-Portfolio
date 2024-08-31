@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio José María Manzano Ortega
 This portfolio showcases my Data Science and Data Analysis projects created for academic, self-learning, and personal interest purposes. It also highlights my achievements, skills, and certifications. I update it regularly to reflect my latest work.
 
 - **Email**: [josemaria16manzano@gmail.com](josemaria16manzano@gmail.com)
@@ -6,7 +6,7 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="130" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
 
