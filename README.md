@@ -7,7 +7,7 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 ## Projects
 
-<img align="left" width="250" height="130" src="[https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/main/Images/Windows10.jpg?token=GHSAT0AAAAAACWPOBYJVUX2R7UGEHLTSQU2ZXANXUA](https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/main/Images/Windows10.jpg?token=GHSAT0AAAAAACWPOBYJ2EXBI6HDJD5TRA5OZXAN3EQ)"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="130" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/main/Images/Windows10.jpg?token=GHSAT0AAAAAACWPOBYJ2EXBI6HDJD5TRA5OZXAN3EQ"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
 
