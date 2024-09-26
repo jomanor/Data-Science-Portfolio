@@ -1,3 +1,5 @@
+## Challenge Tests Hard
+
 **(1) There are Two tables**
 - attendances : date | student_id | attendance
 - students : student_id | school_id | grade_level | date_of_birth | hometown
