@@ -1,5 +1,9 @@
-[EN]
-This repository contains codes of online Python challenges solved by me. The content is in Spanish
+# Python Challenges / Retos de Python  🐍
 
-[SP]
-Esta carpeta contiene algunas códigos de retos online de Python resueltos por mí. El contenido está en español.
+## Description (English) 🇬🇧
+
+This repository contains solutions to various online Python programming challenges I have solved. All content is documented in Spanish.
+
+## Descripción (Español) 🇪🇸
+
+Esta carpeta contiene algunos códigos de retos online de Python resueltos por mí. Todo el contenido está documentado en español.
