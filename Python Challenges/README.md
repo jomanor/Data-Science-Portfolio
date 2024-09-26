@@ -2,7 +2,7 @@
 
 ### Description 🇬🇧
 
-This repository contains solutions to various online Python programming challenges I have solved. All content is documented in Spanish.
+This folder contains solutions to various online Python programming challenges I have solved. All content is documented in Spanish.
 
 ### Descripción 🇪🇸
 
