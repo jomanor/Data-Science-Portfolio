@@ -6,4 +6,4 @@ A detailed and extensive project that explores two datasets: one focused on regr
 
 ### Descripción 🇪🇸
 
-Un proyecto cuidado y extenso que analiza dos conjuntos de datos: uno centrado en regresión y otro en clasificación. Se implementan varios algoritmos de ambos enfoques, además de realizar un análisis exploratorio de datos en profundidad. Todo el contenido está cuidadosamente documentado en español.
+Un proyecto cuidado y extenso que analiza dos conjuntos de datos: uno centrado en regresión y otro en clasificación. Se implementan varios algoritmos de ambos enfoques, además de realizar un análisis exploratorio de datos en profundidad. Todo el contenido está documentado en español.
