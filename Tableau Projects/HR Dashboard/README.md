@@ -47,13 +47,13 @@ This feature provides HR managers with an efficient tool for accessing detailed 
 ---
 
 
-## Proyecto de Dashboard de RRHH
+## Proyecto de Tabla interactiva de RRHH
 
 ### 📊 Descripción
 
-Este proyecto consiste en el desarrollo de un **Dashboard completo de RRHH** diseñado para proporcionar a los gerentes de recursos humanos visualizaciones y herramientas basadas en datos, con el fin de analizar su fuerza laboral de manera eficiente. El dashboard consolida datos sobre métricas clave de RRHH, permitiendo a los usuarios acceder tanto a resúmenes generales como a registros detallados de los empleados.
+Este proyecto consiste en el desarrollo de una **Tabla interactiva de RRHH** diseñada para proporcionar a los gerentes de recursos humanos visualizaciones y herramientas basadas en datos, con el fin de analizar su fuerza laboral de manera eficiente. Consolida datos sobre métricas clave de RRHH, permitiendo a los usuarios acceder tanto a resúmenes generales como a registros detallados de los empleados.
 
-El dashboard se divide en dos secciones principales:
+Se divide en dos secciones principales:
 - **Vista Resumen**: Proporciona una visión general de la fuerza laboral de la organización, cubriendo datos demográficos, rendimiento de los empleados y análisis de ingresos.
 - **Vista de Registros de Empleados**: Ofrece información detallada y filtrable sobre cada empleado, incluyendo datos demográficos y salarios.
 
