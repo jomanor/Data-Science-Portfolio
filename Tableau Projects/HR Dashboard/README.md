@@ -41,10 +41,10 @@ The **Employee Records View** presents a detailed, filterable list of all employ
 - View key details such as **name**, **department**, **position**, **gender**, **age**, **education**, and **salary**.
 - Filter the records by any of these columns to drill down into specific employee information.
 
-This feature provides HR managers with an efficient tool for accessing detailed employee information without the need for manual data retrieval, streamlining the decision-making process.
-
-
 ---
+
+The dataset used for the project can be found on **HumanResources.csv**. This is an artificial dataset created by me, the code developed for the data generation is **DatasetGeneration.py**.
+The Tableau file is **HR Dashboard.twbx**.
 
 
 ## Proyecto de Tabla interactiva de RRHH
@@ -91,4 +91,8 @@ La **Vista de Registros de Empleados** presenta una lista detallada y filtrable 
 - Filtrar los registros por cualquiera de estas columnas para profundizar en la información específica de los empleados.
 
 Esta función proporciona a los gerentes de RRHH una herramienta eficiente para acceder a información detallada sobre los empleados sin necesidad de recuperación manual de datos, agilizando así el proceso de toma de decisiones.
-hboard ayuda a los gerentes de RRHH a tomar decisiones informadas sobre contratación, distribución salarial y demografía de la fuerza laboral, todo en una interfaz única y fácil de usar.
+
+---
+
+El conjunto de datos utilizado para el proyecto se encuentra en **HumanResources.csv**. Este es un conjunto de datos artificial creado por mí, el código desarrollado para la generación de datos es **DatasetGeneration.py**.
+El archivo del proyecto se trata de **HR Dashboard.twbx**.
