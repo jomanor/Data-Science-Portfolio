@@ -58,7 +58,7 @@ Los atributos en el archivo son:
 - rho: densidad del aire (kg/m^3),
 - I: intensidad de la turbulencia,
 - Sb: cizalladura del viento bajo el buje,
-- y: potencia relativa al ingreso (%).
+- y: potencia de salida relativa a la de ingreso (%).
 
 ### 🎯 Objetivo
 El objetivo de este proyecto es analizar los datos del aerogenerador y predecir la curva de potencia de un aerogenerador utilizando técnicas de regresión.
@@ -66,10 +66,10 @@ El objetivo de este proyecto es analizar los datos del aerogenerador y predecir 
 ### 🧪 Conclusión
 
 Al predecir la potencia relativa, nos encontramos con dos problemas clave:
-- La potencia relativa no puede estar fuera del rango de [0, 100].
+- La potencia relativa no puede estar fuera del rango [0, 100].
 - Sabemos que la curva de potencia real es no lineal.
 
-Para abordar el primer problema en un modelo de regresión, podemos aplicar una función sigmoidea, aunque puede alterar la distribución de la variable de respuesta. Para resolver ambos problemas, se emplearon métodos basados en árboles, que proporcionaron mejores resultados que otros modelos. Los resultados se resumen a continuación:
+Para abordar el primer problema en un modelo de regresión, podemos aplicar una función sigmoidea, aunque puede alterar la distribución de la variable de respuesta. Para resolver ambos problemas, se emplearon métodos basados en Random Forest, que proporcionaron mejores resultados que otros modelos. Los resultados se resumen a continuación:
 
 | Modelo | Valor R-cuadrado | RMSE de Prueba |
 | --- | --- | --- |
