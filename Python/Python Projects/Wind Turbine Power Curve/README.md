@@ -29,7 +29,7 @@ For predicting the relative power, we face two key issues:
 
 To address the first problem in a regression model, we can apply a sigmoid function, though it may alter the distribution of the response variable. To solve both issues, tree-based methods were employed, which provided better results than other models. The results are summarized below:
 
-| Model | R^2 Value | Test RMSE |
+| Model | R² Value | Test RMSE |
 | --- | --- | --- |
 | Polynomial (Degree 4) Regression | 0.92814 | 9.072 |
 | Randomforest Regression | 0.99398 | 6.721 |
@@ -71,7 +71,7 @@ Al predecir la potencia relativa, nos encontramos con dos problemas clave:
 
 Para abordar el primer problema en un modelo de regresión, podemos aplicar una función sigmoidea, aunque puede alterar la distribución de la variable de respuesta. Para resolver ambos problemas, se emplearon métodos basados en Random Forest, que proporcionaron mejores resultados que otros modelos. Los resultados se resumen a continuación:
 
-| Modelo | Valor R^2 | RMSE de Prueba |
+| Modelo | Valor R² | RMSE de Prueba |
 | --- | --- | --- |
 | Regresión Polinómica (Grado 4) | 0.92814 | 9.072 |
 | Regresión con Randomforest | 0.99398 | 6.721 |
