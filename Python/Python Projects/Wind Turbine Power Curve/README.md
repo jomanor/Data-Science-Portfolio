@@ -15,10 +15,10 @@ The attributes in the file are:
 - rho: air density (kg/m^3),
 - I: turbulence intensity,
 - Sb: below-hub wind shear,
-- y: normalized power output relative to the rated power (%).
+- y: output power relative to the input power (%).
 
 ### Objective
-Objective of this project is to perform independent analysis of the wind-turbine data and predict the power curve of a wind turbine.
+The objective of this project is to perform analysis of the wind-turbine data and predict the power curve of a wind turbine using regression techniques.
 
 ### Conclusion
 
@@ -26,7 +26,7 @@ Here, for predicting the relative power we have two issues.
 - Relative power cannot go outside the range of [0, 100].
 - We know that true power curve is non-linear.
 
-To tackle first problem while using regression problem, we can use sigmoid function but it will change the distribution of the response variable. So, to solve both of the problems I used tree based methods which gave me very good results compared to linear regression and lasso regression as they fit a straight line. Results for non linear models can be seen below.
+To tackle the first problem while using regression problem, we can use a sigmoid function but it will change the distribution of the response variable. So, to solve both of the problems I used tree based methods which proportioned better results compared to others. The results can be seen below.
 
 | Model | R-squared Value | Test RMSE |
 | --- | --- | --- |
@@ -36,8 +36,5 @@ To tackle first problem while using regression problem, we can use sigmoid funct
 | XGBoost Regression | 0.97755 | 6.404 |
 
 
-As we can see, in boosting methods bias reduces which improves the test results.
-
-
-Also, feature importance plots suggests that Wind Speed (Velocity), Wind Direction and Wind Sheer are most important features for predicting the relative power.
+Moreover, feature importance plots suggests that Wind Speed (Velocity), Wind Direction and Wind Sheer are most important features for predicting the relative power.
 
