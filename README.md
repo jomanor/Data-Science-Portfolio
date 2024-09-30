@@ -8,7 +8,7 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 ## Projects 
 
-<img align="left" width="250" height="130" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="130" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
 
