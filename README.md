@@ -16,8 +16,10 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 ##
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
 
-Another project
+In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+
 
 
 <br />
