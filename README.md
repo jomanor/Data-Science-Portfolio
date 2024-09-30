@@ -12,7 +12,6 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 
 In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
-
 ##
 
 <img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
