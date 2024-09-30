@@ -19,6 +19,7 @@ In this project, I have employed regression techniques to estimate the Power cur
 <img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default on a loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+##
 
 ### Kaggle Competitions
 
