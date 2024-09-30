@@ -50,7 +50,7 @@ In this project, I have employed regression techniques to estimate the Power cur
     - [Deep Learning]()
     - [Pig Exercises]()
  
-- ### Challenges
+- ### Coding Challenges
     - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20)
     - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges)
  
