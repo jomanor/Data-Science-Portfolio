@@ -6,10 +6,9 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 - **Kaggle**: [https://www.kaggle.com/josmaramanzanoortega](https://www.kaggle.com/josmaramanzanoortega)
 
 
+## Projects 
 
-<!-- ## Projects 
-
-<img align="left" width="250" height="130" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/main/Images/Windows10.jpg?token=GHSAT0AAAAAACWPOBYI5L27PECAIVNZVPQMZXAN7GQ"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="130" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
 
@@ -39,4 +38,4 @@ Another project
 ## Certificates
 
 - [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png) -->
+- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png) 
