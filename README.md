@@ -66,4 +66,4 @@ In this project, I have employed regression techniques to estimate the Power cur
 - [Machine Learning and Data Science with Python by Udemy](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Machine%20Learning%20and%20Data%20Science%20with%20Python.pdf)
 - [Course #YOULEARNSAP Certificate](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Youlearnsap%20Certificate.pdf)
 - [Data Engineer Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/c00af57a-a81f-426d-8195-47bb65e4c8f0)
-- [Credly Profile Link](https://www.credly.com/users/jose-maria-manzano-ortega)
+- [Credly Profile](https://www.credly.com/users/jose-maria-manzano-ortega)
