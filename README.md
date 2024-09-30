@@ -44,7 +44,7 @@ In this project, I have employed regression techniques to estimate the Power cur
 ##
 
 ## Micro Projects
-- ### Machine Learning
+- ### Machine Learning and Big Data Analytics
     - [Clustering]() 
     - [PySpark]()
     - [Deep Learning]()
@@ -56,7 +56,7 @@ In this project, I have employed regression techniques to estimate the Power cur
  
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Data Visualization, Statistics, Big Data Analytics
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
 - **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Microsoft Azure, MongoDB, Hadoop (Impala, Pig)
 
