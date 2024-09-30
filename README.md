@@ -36,14 +36,19 @@ In this project, I have employed regression techniques to estimate the Power cur
 ##
 
 ### R
-<br />
+
+##
+
+### Tableau
+
+##
 
 ## Micro Projects
 - ### Machine Learning
-    - [Clustering](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm network using forward propogation, backword propogation and optimization functions to predict the customer churn.
-    - [PySpark]
-    - [Deep Learning]
-    - [Pig Exercises]
+    - [Clustering]() 
+    - [PySpark]()
+    - [Deep Learning]()
+    - [Pig Exercises]()
  
 - ### Challenges
     - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20)
@@ -57,5 +62,8 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 ## Certificates
 
-- [IBM Data Science Professional Certificate](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png) 
+- [IBM Data Science Professional Certificate](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/IBM%20Data%20Science%20Professional%20Certificate.pdf)
+- [Machine Learning and Data Science with Python by Udemy](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Machine%20Learning%20and%20Data%20Science%20with%20Python.pdf)
+- [Course #YOULEARNSAP Certificate](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Youlearnsap%20Certificate.pdf)
+- [Data Engineer Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/c00af57a-a81f-426d-8195-47bb65e4c8f0)
+- [Credly Profile Link](https://www.credly.com/users/jose-maria-manzano-ortega)
