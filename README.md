@@ -8,6 +8,8 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 ## Projects 
 
+### Python
+
 <img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
 
 
@@ -18,6 +20,21 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default on a loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
+### Kaggle Competitions
+
+<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
+
+
+In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
+##
+
+<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
+
+
+In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
+##
+
+### R
 <br />
 
 ## Micro Projects
@@ -25,8 +42,8 @@ In this project I applied various classification models such as Logistic Regress
     - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm network using forward propogation, backword propogation and optimization functions to predict the customer churn.
  
 - ### Challenges
-    - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges).
+    - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20)
+    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges)
  
 ## Core Competencies
 
