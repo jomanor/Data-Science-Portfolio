@@ -16,7 +16,7 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
 ##
 
-<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
+<img align="left" width="230" height="140" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default on a loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 ##
@@ -39,8 +39,11 @@ In this project, I have employed regression techniques to estimate the Power cur
 <br />
 
 ## Micro Projects
-- ### Statistics and Machine Learning
-    - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm network using forward propogation, backword propogation and optimization functions to predict the customer churn.
+- ### Machine Learning
+    - [Clustering](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm network using forward propogation, backword propogation and optimization functions to predict the customer churn.
+    - [PySpark]
+    - [Deep Learning]
+    - [Pig Exercises]
  
 - ### Challenges
     - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20)
@@ -54,5 +57,5 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 ## Certificates
 
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+- [IBM Data Science Professional Certificate](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
 - [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png) 
