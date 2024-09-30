@@ -26,7 +26,7 @@ In this project I applied various classification models such as Logistic Regress
  
 - ### Challenges
     - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-    - [Python Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
+    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges).
  
 ## Core Competencies
 
