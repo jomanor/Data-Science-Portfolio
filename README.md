@@ -16,23 +16,25 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
 ##
 
-<img align="left" width="230" height="140" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
+<img align="left" width="240" height="140" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default on a loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 ##
 
 ### Kaggle Competitions
 
-<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
+<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/TitanicIm.jpg"> **[Titanic - Machine Learning from Disaster](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/Titanic%20Competition)**
 
 
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
+In this project, the goal is to predict which passengers survived the Titanic disaster using machine learning models. The model used is a Random Forest Classifier, achieving 80% accuracy. Extensive fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance. This project is part of the well-known Kaggle Titanic competition and demonstrates how to handle missing data, feature engineering, and model optimization for classification tasks.
+
 ##
 
-<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
+<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HousePredIm.jpg"> **[House Prices - Advanced Regression Techniques](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/House%20Pricing%20Competition)**
 
 
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
+This project focuses on predicting house prices based on various features from the Kaggle House Pricing competition. Using a CatBoost Regressor, the model achieves an impressive RMSE of 0.13. Extensive data analysis and feature engineering, including handling missing data, transforming variables, and creating new features, were key to the model's success. The project highlights the importance of preprocessing and fine-tuning in regression problems.
+
 ##
 
 ### R
