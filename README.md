@@ -23,14 +23,14 @@ In this project I applied various classification models such as Logistic Regress
 
 ### Kaggle Competitions
 
-<img align="left" width="250" height="170" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/TitanicIm.jpg"> **[Titanic - Machine Learning from Disaster](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/Titanic%20Competition)**
+<img align="left" width="240" height="170" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/TitanicIm.jpg"> **[Titanic - Machine Learning from Disaster](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/Titanic%20Competition)**
 
 
 In this project, the goal is to predict which passengers survived the Titanic disaster using machine learning models. The model used is a Random Forest Classifier, achieving 80% accuracy. Extensive fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance. This project is part of the well-known Kaggle Titanic competition and demonstrates how to handle missing data, feature engineering, and model optimization for classification tasks.
 
 ##
 
-<img align="left" width="250" height="170" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HousePredIm.jpg"> **[House Prices - Advanced Regression Techniques](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/House%20Pricing%20Competition)**
+<img align="left" width="240" height="170" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HousePredIm.jpg"> **[House Prices - Advanced Regression Techniques](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/House%20Pricing%20Competition)**
 
 
 This project focuses on predicting house prices based on various features from the Kaggle House Pricing competition. Using a CatBoost Regressor, the model achieves an impressive RMSE of 0.13. Extensive data analysis and feature engineering, including handling missing data, transforming variables, and creating new features, were key to the model's success. The project highlights the importance of preprocessing and fine-tuning in regression problems.
@@ -43,7 +43,7 @@ This project focuses on predicting house prices based on various features from t
 
 ### Tableau
 
-<img align="left" width="250" height="170" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HRDashboardim.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
+<img align="left" width="240" height="170" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HRDashboardim.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
 
 
 This project in Tableau is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of total employees, hires, terminations, and department-wise distributions and a employee records view; with a filterable list of all the employees.  
