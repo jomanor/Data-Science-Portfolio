@@ -43,14 +43,6 @@ This project is based on the **House Pricing Kaggle Competition**, where the obj
 
 This project demonstrates the importance of thorough **Exploratory Data Analysis (EDA)**, thoughtful **feature engineering**, and choosing the right model for the task. By incorporating advanced **CatBoost Regression** and applying significant data transformations, the model was able to achieve a strong predictive performance in the Kaggle competition.
 
----
-
-## Files in this Repository 📂
-
-- **House Pricing Catboost Regression.ipynb**: The full Jupyter notebook containing code for EDA, feature engineering, model training, and evaluation.
-- **data/**: Folder containing the dataset used in the analysis.
-
-
 ## Descripción 🇪🇸
 
 Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, donde el objetivo es predecir los precios de las viviendas en función de varias características relacionadas con la propiedad y su entorno. 
@@ -93,10 +85,3 @@ Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, 
 ## Conclusiones 🔍
 
 Este proyecto demuestra la importancia de un **Análisis Exploratorio de Datos (EDA)** exhaustivo, una **ingeniería de características** reflexiva y la elección del modelo adecuado para la tarea. Al incorporar una **Regresión CatBoost** avanzada y aplicar transformaciones significativas en los datos, el modelo logró un sólido rendimiento predictivo en la competencia de Kaggle.
-
----
-
-## Archivos en este Repositorio 📂
-
-- **House Pricing Catboost Regression.ipynb**: El notebook completo de Jupyter que contiene el código para EDA, ingeniería de características, entrenamiento de modelos y evaluación.
-- **data/**: Carpeta que contiene el conjunto de datos utilizado en el análisis.
