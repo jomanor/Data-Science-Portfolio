@@ -8,7 +8,7 @@ The dashboard is divided into two main sections:
 - **Summary View**: Provides an overall snapshot of the organization’s workforce, covering demographics, employee performance, and income analysis.
 - **Employee Records View**: Offers detailed, filterable information on individual employees, including demographics and salary details.
 
----
+##
 
 ### 📊 Summary View
 
@@ -33,7 +33,7 @@ Focusing on salary data, this section highlights:
 - Salary comparisons across **different education levels** and **genders**.
 - The relationship between **age** and **salary** within each department.
 
----
+##
 
 ### 📚 Employee Records View
 
@@ -41,7 +41,7 @@ The **Employee Records View** presents a detailed, filterable list of all employ
 - View key details such as **name**, **department**, **position**, **gender**, **age**, **education**, and **salary**.
 - Filter the records by any of these columns to drill down into specific employee information.
 
----
+##
 
 The dataset used for the project can be found on **HumanResources.csv**. This is an artificial dataset created by me, the code developed for the data generation is **DatasetGeneration.py**.
 The Tableau file is **HR Dashboard.twbx**.
@@ -57,7 +57,7 @@ Se divide en dos secciones principales:
 - **Vista Resumen**: Proporciona una visión general de la fuerza laboral de la organización, cubriendo datos demográficos, rendimiento de los empleados y análisis de ingresos.
 - **Vista de Registros de Empleados**: Ofrece información detallada y filtrable sobre cada empleado, incluyendo datos demográficos y salarios.
 
----
+##
 
 ### 📊 Vista Resumen
 
@@ -82,7 +82,7 @@ Centrado en datos salariales, esta sección destaca:
 - Comparaciones salariales entre **diferentes niveles educativos** y **géneros**.
 - La relación entre **edad** y **salario** dentro de cada departamento.
 
----
+##
 
 ### 📚 Vista de Registros de Empleados
 
@@ -92,7 +92,7 @@ La **Vista de Registros de Empleados** presenta una lista detallada y filtrable 
 
 Esta función proporciona a los gerentes de RRHH una herramienta eficiente para acceder a información detallada sobre los empleados sin necesidad de recuperación manual de datos, agilizando así el proceso de toma de decisiones.
 
----
+##
 
 El conjunto de datos utilizado para el proyecto se encuentra en **HumanResources.csv**. Este es un conjunto de datos artificial creado por mí, el código desarrollado para la generación de datos es **DatasetGeneration.py**.
 El archivo del proyecto se trata de **HR Dashboard.twbx**.
