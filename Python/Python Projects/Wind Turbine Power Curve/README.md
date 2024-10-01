@@ -36,8 +36,6 @@ To address the first problem in a regression model, we can apply a sigmoid funct
 
 Furthermore, feature importance plots suggest that **Wind Speed (Velocity)**, **Wind Direction**, and **Wind Shear** are the most important features for predicting relative power.
 
-## 
-
 ## Descripción 🇪🇸 
 
 La curva de potencia de un aerogenerador muestra la relación entre la potencia de la turbina eólica y la velocidad del viento a la altura del buje. Captura esencialmente el rendimiento de la turbina, y por ello, juega un papel importante en el monitoreo y control de las condiciones de los aerogeneradores. Las curvas de potencia proporcionadas por los fabricantes ayudan a estimar el potencial energético eólico en un sitio candidato. Modelos precisos de la curva de potencia son una herramienta clave en la previsión de la energía eólica y en la expansión de parques eólicos.
