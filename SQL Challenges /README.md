@@ -1,6 +1,6 @@
 ## SQL Challenges / Retos de SQL 📊
 
-### Description 🇬🇧
+### Overview 🇬🇧
 
 This folder contains solutions to various online SQL challenges I have solved, classified by difficulty. All content is documented in English.
 
