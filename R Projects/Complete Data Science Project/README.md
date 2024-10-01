@@ -1,6 +1,6 @@
 ## Complete DS Project in R / Proyecto Completo de Ciencia de Datos en R 🅡
 
-### Description 🇬🇧
+### Overview 🇬🇧
 
 This project demonstrates the implementation of **regression** and **classification** models using two datasets: the **California Housing dataset** for regression tasks and the **Bupa Liver dataset** for classification tasks. A detailed **Exploratory Data Analysis (EDA)** is performed for each dataset, including feature transformation and data scaling.
 
