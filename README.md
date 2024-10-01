@@ -41,6 +41,10 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 ### Tableau
 
+<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
+
+
+This project in Tableau is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of total employees, hires, terminations, and department-wise distributions and a employee records view; with a filterable list of all the employees.  
 ##
 
 ## Micro Projects
