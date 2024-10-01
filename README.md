@@ -41,7 +41,7 @@ This project focuses on predicting house prices based on various features from t
 
 <img align="left" width="250" height="160" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/ClassificationRegressionIm.jpg"> **[R Complete Data Science Project](https://github.com/jomanor/Data-Science-Portfolio/tree/main/R%20Projects/Complete%20Data%20Science%20Project)**
 
-This R project focuses on implementing both regression and classification models using two different datasets: the California Housing dataset for regression tasks and the Bupa Liver dataset for classification tasks. Each dataset is accompanied by a detailed Exploratory Data Analysis (EDA), which delves into data quality, feature engineering, and preprocessing. The project is deeply documentated in Spanish.
+This R project focuses on implementing both regression and classification models using two different datasets: the California Housing dataset for regression tasks and the Bupa dataset for classification tasks. Each dataset is accompanied by a detailed Exploratory Data Analysis (EDA), which delves into data quality, feature engineering, and preprocessing. The project is documentated in Spanish.
 
 ##
 
