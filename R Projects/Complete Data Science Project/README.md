@@ -1,4 +1,4 @@
-## Complete Project in R / Proyecto Completo en R 🅡
+## Complete DS Project in R / Proyecto Completo de Ciencia de Datos en R 🅡
 
 ### Description 🇬🇧
 
