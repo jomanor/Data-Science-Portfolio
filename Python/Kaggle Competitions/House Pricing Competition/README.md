@@ -43,6 +43,8 @@ This project is based on the **House Pricing Kaggle Competition**, where the obj
 
 This project demonstrates the importance of thorough **Exploratory Data Analysis (EDA)**, thoughtful **feature engineering**, and choosing the right model for the task. By incorporating advanced **CatBoost Regression** and applying significant data transformations, the model was able to achieve a strong predictive performance in the Kaggle competition.
 
+<br/>
+
 ## Descripción 🇪🇸
 
 Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, donde el objetivo es predecir los precios de las viviendas en función de varias características relacionadas con la propiedad y su entorno. 
