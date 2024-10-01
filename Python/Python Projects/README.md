@@ -1,6 +1,6 @@
 ## Python Projects / Proyectos en Python 🐍
 
-### Description 🇬🇧
+### Overview 🇬🇧
 
 This folder contains the Python projects I have developed. These projects demonstrate a range of applications, from data analysis and visualization to machine learning.
 
