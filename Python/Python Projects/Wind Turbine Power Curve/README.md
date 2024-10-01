@@ -2,8 +2,6 @@
 
 ### 🇬🇧 
 
-The power curve of a wind turbine is a graph that indicates how large the electrical power output will be for the turbine at different wind speeds. 
-
 The wind turbine power curve shows the relationship between the wind turbine power and hub height wind speed. It essentially captures the wind turbine performance. Hence, it plays an important role in condition monitoring and control of wind turbines. Power curves made available by the manufacturers help in estimating the wind energy potential in a candidate site. Accurate models of power curve serve as an important tool in wind power forecasting and aid in wind farm expansion.
 
 ### 📊 Data
@@ -43,8 +41,6 @@ Furthermore, feature importance plots suggest that **Wind Speed (Velocity)**, **
 ### 🇪🇸 
 
 ## 🧭🌬️ Estimación de la Curva de Potencia de un Molino de viento
-
-La curva de potencia de un aerogenerador es un gráfico que indica cuánta energía eléctrica generará la turbina en función de diferentes velocidades del viento.
 
 La curva de potencia de un aerogenerador muestra la relación entre la potencia de la turbina eólica y la velocidad del viento a la altura del buje. Captura esencialmente el rendimiento de la turbina, y por ello, juega un papel importante en el monitoreo y control de las condiciones de los aerogeneradores. Las curvas de potencia proporcionadas por los fabricantes ayudan a estimar el potencial energético eólico en un sitio candidato. Modelos precisos de la curva de potencia son una herramienta clave en la previsión de la energía eólica y en la expansión de parques eólicos.
 
