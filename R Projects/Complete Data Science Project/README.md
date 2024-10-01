@@ -42,7 +42,7 @@ This project emphasizes the importance of data preparation and EDA in building r
 
 Este proyecto demuestra la implementación de modelos de **regresión** y **clasificación** utilizando dos conjuntos de datos: el **conjunto de datos de Viviendas de California** para tareas de regresión y el **conjunto de datos de Hígado Bupa** para tareas de clasificación. Se realizó un detallado **Análisis Exploratorio de Datos (EDA)** para cada conjunto de datos, incluyendo la transformación de características y la escalación de los datos.
 
-## 🏡 Conjunto de Datos de Viviendas de California (Regresión)
+## 🏡 Dataset de California (Regresión)
 
 El **conjunto de datos de Viviendas de California** se utiliza para predecir los valores de las viviendas en función de características como el ingreso mediano, la edad de las casas y datos geográficos.
 
@@ -54,7 +54,7 @@ El **conjunto de datos de Viviendas de California** se utiliza para predecir los
   - **Escalado y Normalización**: Se utilizó **escalado MinMax** para poner los valores de las características en un rango comparable.
 - **Resultado**: Los modelos se evaluaron utilizando métricas como el **Error Cuadrático Medio (RMSE)** y **R-cuadrado**, con los modelos no lineales mostrando mejor desempeño al capturar patrones complejos en los datos.
 
-## 🧪 Conjunto de Datos de Hígado Bupa (Clasificación)
+## 🧪 Dataset de Bupa (Clasificación)
 
 El **conjunto de datos de Bupa** se utiliza para una tarea de clasificación binaria para predecir la presencia de enfermedades hepáticas basadas en niveles de enzimas hepáticas, consumo de alcohol y IMC.
 
@@ -66,7 +66,7 @@ El **conjunto de datos de Bupa** se utiliza para una tarea de clasificación bin
   - **Transformación de Características**: Se aplicaron técnicas de estandarización y agrupamiento para normalizar los datos y mejorar la interpretabilidad de las características sesgadas.
 - **Resultado**: Los modelos de clasificación se evaluaron utilizando **precisión**. Entre los modelos, **k-NN** proporcionó los mejores resultados, mientras que **QDA** capturó de manera efectiva las relaciones no lineales en los datos.
 
-## Puntos Destacados del Proyecto
+## Puntos a destacar del Proyecto
 
 - Completo **Análisis Exploratorio de Datos (EDA)**:
   - **Transformación de Características**: Se transformaron características sesgadas para mejorar la precisión de los modelos.
