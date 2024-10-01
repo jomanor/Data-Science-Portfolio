@@ -27,10 +27,9 @@ SELECT userId, AVG(duration) FROM sessions GROUP BY userId HAVING count(id) > 1;
 ```
 SELECT I.name, S.name FROM items as I, sellers as S WHERE I.sellerId == S.id AND S.rating > 4
 ```
-<br/>
 
-## Hard
 **(5) An insurance company maintains records of sales made by its employees. Each employee is assigned to a state. States are grouped under regions. The following tables contain the data:**
+
 ```
 TABLE regions
   id INTEGER PRIMARY KEY
