@@ -3,6 +3,7 @@
 ## Overview 🇬🇧
 
 This project is based on the **House Pricing Kaggle Competition**, where the objective is to predict house prices based on various features related to the property and its surroundings. 
+
 ---
 
 ## Key Steps and Highlights 🔍
