@@ -41,19 +41,20 @@ In this project, I have employed regression techniques to estimate the Power cur
 
 ### Tableau
 
-<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/Imagen%20Molino.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
+<img align="left" width="250" height="150" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HRDashboardim.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
 
 
 This project in Tableau is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of total employees, hires, terminations, and department-wise distributions and a employee records view; with a filterable list of all the employees.  
-##
 
 ## Micro Projects
-- ### Machine Learning and Big Data Analytics
+- ### Machine Learning 
     - [Clustering]() 
-    - [PySpark]()
     - [Deep Learning]()
+    
+- ### Big Data Analytics
+    - [PySpark]()
     - [Pig Exercises]()
- 
+    
 - ### Coding Challenges
     - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20)
     - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges)
@@ -68,6 +69,6 @@ This project in Tableau is designed to help HR professionals monitor and analyze
 
 - [IBM Data Science Professional Certificate](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/IBM%20Data%20Science%20Professional%20Certificate.pdf)
 - [Machine Learning and Data Science with Python by Udemy](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Machine%20Learning%20and%20Data%20Science%20with%20Python.pdf)
-- [Course #YOULEARNSAP Certificate](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Youlearnsap%20Certificate.pdf)
+- [#YOULEARNSAP Course Certificate](https://github.com/jomanor/Data-Science-Portfolio/blob/main/Certificates/Youlearnsap%20Certificate.pdf)
 - [Data Engineer Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/c00af57a-a81f-426d-8195-47bb65e4c8f0)
 - [Credly Profile](https://www.credly.com/users/jose-maria-manzano-ortega)
