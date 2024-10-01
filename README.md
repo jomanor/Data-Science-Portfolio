@@ -27,7 +27,7 @@ In this project I applied various classification models such as Logistic Regress
 <img align="left" width="220" height="180" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/TitanicIm.jpg"> **[Titanic - Machine Learning from Disaster](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/Titanic%20Competition)**
 
 
-In this project, the goal is to predict which passengers survived the Titanic disaster using machine learning models. The model used is a Random Forest Classifier, achieving 80% accuracy. Extensive fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance. This project is part of the well-known Kaggle Titanic competition and demonstrates how to handle missing data, feature engineering, and model optimization for classification tasks.
+In this project, the goal is to predict which passengers survived the Titanic disaster using machine learning models. The model used is a Random Forest Classifier, achieving 80% accuracy. Extensive fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance. This project is part of the Kaggle Titanic competition and demonstrates how to handle missing data, feature engineering, and model optimization for classification tasks.
 
 ##
 
@@ -46,7 +46,7 @@ This project focuses on predicting house prices based on various features from t
 <img align="left" width="230" height="160" src="https://github.com/jomanor/Data-Science-Portfolio/blob/main/Images/HRDashboardim.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
 
 
-This project in Tableau is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of total employees, hires, terminations, and department-wise distributions and a employee records view; with a filterable list of all the employees.  
+This project is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of total employees, hires, terminations, and department distributions and a employee records view; with a filterable list of all the employees.  
 
 
 ## Micro Projects
