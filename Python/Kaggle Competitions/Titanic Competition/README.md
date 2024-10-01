@@ -47,7 +47,7 @@ Este proyecto se basa en la **Competición de Supervivencia del Titanic de Kaggl
 
 ## Pasos Clave y Destacados 🔍
 
-### 1. Análisis Exploratorio de Datos (EDA) Extenso 📈
+### 1. Análisis Exploratorio de Datos 📈
 
 - **Limpieza de Datos**: Se manejaron datos faltantes en características clave, como edad, clase del pasajero y tarifa del boleto, identificando las razones subyacentes detrás de los valores ausentes.
 - **Visualización de Datos**: Se crearon gráficos para observar la distribución de características y su relación con la supervivencia, ayudando a identificar patrones significativos.
