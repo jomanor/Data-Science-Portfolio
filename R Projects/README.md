@@ -1,6 +1,6 @@
-## R Overview / Proyectos en R 📈
+## R Projects / Proyectos en R 📈
 
-### Description 🇬🇧
+### Overview 🇬🇧
 
 This folder contains the projects that I developed in the R programming language.
 
