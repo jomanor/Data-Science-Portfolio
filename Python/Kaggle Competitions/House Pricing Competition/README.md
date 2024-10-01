@@ -54,6 +54,7 @@ This project demonstrates the importance of thorough **Exploratory Data Analysis
 ## Descripción 🇪🇸
 
 Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, donde el objetivo es predecir los precios de las viviendas en función de varias características relacionadas con la propiedad y su entorno. 
+
 ---
 
 ## Pasos Clave y Destacados 🔍
