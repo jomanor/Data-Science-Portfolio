@@ -53,6 +53,7 @@ This R project focuses on implementing both regression and classification models
 This project is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of the employees, hires, terminations, and department distributions and a filterable employee records view.  
 
 
+
 ## Micro Projects
 - ### Machine Learning 
     - [Clustering]() 
