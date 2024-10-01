@@ -1,4 +1,4 @@
-# House Pricing Prediction/Predicción del Precio de Viviendas 🏠
+# House Pricing Prediction / Predicción del Precio de Viviendas 🏠
 
 ## Overview 🇬🇧
 
@@ -37,12 +37,6 @@ This project is based on the **House Pricing Kaggle Competition**, where the obj
 - **Model Performance**: The model achieved an RMSE of **0.13**, indicating a high level of accuracy in predicting house prices.
 - **Feature Importance**: Several engineered features such as time-based and structural variables significantly contributed to the model’s predictive capabilities.
 
----
-
-## Conclusions 🔍
-
-This project demonstrates the importance of thorough **Exploratory Data Analysis (EDA)**, thoughtful **feature engineering**, and choosing the right model for the task. By incorporating advanced **CatBoost Regression** and applying significant data transformations, the model was able to achieve a strong predictive performance in the Kaggle competition.
-
 <br/>
 
 ## Descripción 🇪🇸
@@ -53,7 +47,7 @@ Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, 
 
 ## Pasos Clave y Destacados 🔍
 
-### 1. Análisis Exploratorio de Datos (EDA) Extenso 📈
+### 1. Análisis Exploratorio de Datos 📈
 
 - **Limpieza e Imputación de Datos**: Se manejaron cuidadosamente los datos faltantes, identificando las razones subyacentes detrás de los valores perdidos. Ciertas características estaban ausentes basándose en patrones lógicos (por ejemplo, datos de garaje ausentes para casas sin garaje).
 - **Relaciones entre Características**: Se analizaron las correlaciones y relaciones entre variables, visualizando tendencias y dependencias mediante gráficos.
