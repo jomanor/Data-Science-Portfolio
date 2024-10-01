@@ -1,6 +1,6 @@
 ## Kaggle Competitions / Competiciones de Kaggle 🏆
 
-### Description 🇬🇧
+### Overview 🇬🇧
 
 This folder contains the code and notebooks for various competitions I participated in on **Kaggle**. Each project showcases different machine learning techniques and strategies applied to real-world datasets provided by **Kaggle**.
 
