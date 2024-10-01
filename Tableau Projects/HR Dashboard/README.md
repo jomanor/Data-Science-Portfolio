@@ -1,6 +1,6 @@
-## HR Dashboard Project
+## HR Dashboard Project 🖥️
 
-### 📊 Overview
+### Overview 🇬🇧
 
 This project involves the development of a **comprehensive HR Dashboard** designed to provide HR managers with insightful, data-driven visualizations and tools to analyze their workforce efficiently. The dashboard consolidates data across key HR metrics, allowing users to access both high-level overviews and detailed employee records.
 
@@ -47,9 +47,9 @@ The dataset used for the project can be found on **HumanResources.csv**. This is
 The Tableau file is **HR Dashboard.twbx**.
 
 
-## Proyecto de Tabla interactiva de RRHH
+## Proyecto de Tabla interactiva de RRHH 🖥️
 
-### 📊 Descripción
+### Descripción 🇪🇸
 
 Este proyecto consiste en el desarrollo de una **Tabla interactiva de RRHH** diseñada para proporcionar a los gerentes de recursos humanos visualizaciones y herramientas basadas en datos, con el fin de analizar su fuerza laboral de manera eficiente. Consolida datos sobre métricas clave de RRHH, permitiendo a los usuarios acceder tanto a resúmenes generales como a registros detallados de los empleados.
 
