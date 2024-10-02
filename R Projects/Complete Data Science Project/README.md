@@ -70,7 +70,7 @@ El **conjunto de datos de Bupa** se utiliza para una tarea de clasificación bin
 
 ### Puntos a destacar del Proyecto
 
-- Completo **Análisis Exploratorio de Datos (EDA)**:
+- **Análisis Exploratorio de Datos (EDA)** completo:
   - **Transformación de Características**: Se transformaron características sesgadas para mejorar la precisión de los modelos.
   - **Escalado y Normalización**: Se aplicaron técnicas de escalado apropiadas para mejorar la convergencia de los modelos.
 - **Modelos de Regresión**: Se exploraron tanto enfoques lineales como no lineales para comprender la relación entre las características y los precios de las viviendas.
