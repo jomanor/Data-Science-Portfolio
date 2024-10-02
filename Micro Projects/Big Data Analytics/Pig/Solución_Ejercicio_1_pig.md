@@ -1,5 +1,3 @@
-## Ejercicio 1
-
 ### **(1) Generar flujo de datos de calidad del aire con Id. Hay que generar tres flujos independientes: Id + datos de gases, Id + datos de partículas, Id + resto**
 
 
