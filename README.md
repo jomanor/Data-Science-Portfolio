@@ -12,8 +12,8 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
 
-
 In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
+
 ##
 
 <img align="left" width="240" height="150" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
@@ -25,7 +25,6 @@ In this project I applied various classification models such as Logistic Regress
 ### Kaggle Competitions
 
 <img align="left" width="220" height="180" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/TitanicIm.jpg"> **[Titanic - Machine Learning from Disaster](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/Titanic%20Competition)**
-
 
 In this project, the goal is to predict which passengers survived the Titanic disaster using a ML model. The model used is a Random Forest Classifier, achieving 80% accuracy. Fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance. This project is part of the Kaggle Titanic competition and shows how to handle missing data and model optimization for classification tasks.
 
@@ -49,10 +48,9 @@ This R project focuses on implementing both regression and classification models
 
 <img align="left" width="230" height="160" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/HRDashboardim.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
 
-
 This project is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of the employees, hires, terminations, and department distributions and a filterable employee records view.  
 
-
+<br/>
 
 ## Micro Projects
 - ### Machine Learning 
