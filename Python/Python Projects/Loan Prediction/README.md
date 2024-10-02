@@ -60,6 +60,8 @@ The models were evaluated based on precision, recall, F1-score, and accuracy. Th
 
 The **Random Forest** model, with the exclusion of `int_rate`, emerges as the best performing model for predicting loan defaults, achieving the highest scores in all performance metrics.
 
+<br/>
+
 ## Descripción 🇪🇸 
 
 Este proyecto tiene como objetivo responder a la pregunta de investigación: *¿Qué detalles del prestatario, atributos financieros e interacciones potenciales predicen el incumplimiento de préstamos emitidos entre 2012 y 2019 utilizando técnicas avanzadas de aprendizaje automático?* A través de una metodología estructurada que incluye limpieza de datos, análisis exploratorio de datos (EDA), ingeniería de características y evaluación de modelos, el proyecto explora la relación entre diversas características del préstamo y la probabilidad de incumplimiento. Se utilizan técnicas avanzadas como la **Regresión Logística**, **Random Forest** y **Árbol de Decisión** para proporcionar valiosas ideas y mejorar la precisión de la predicción.
