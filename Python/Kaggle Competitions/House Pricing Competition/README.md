@@ -42,7 +42,7 @@ This project is based on the **House Pricing Kaggle Competition**, where the obj
 Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, donde el objetivo es predecir los precios de las viviendas en función de varias características relacionadas con la propiedad y su entorno. 
 
 
-### Pasos Clave y Destacados 🔍
+### Pasos Clave 🔍
 
 ### 1. Análisis Exploratorio de Datos 📈
 
