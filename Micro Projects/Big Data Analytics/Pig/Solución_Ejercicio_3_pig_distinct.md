@@ -1,24 +1,39 @@
-Enunciado:
 
-Determina las tres características de la población con mayor variabilidad.
-3.
-Obtener un individuo que tenga menor valor para cada una de las tres caractersíticas (tres individuos en total, uno con menor valor en la primera característica, otro con menor valor en la segunda y un tercero con menor valor en la tercera).
+### ** (3) Determina las tres características de la población con mayor variabilidad. Obtener un individuo que tenga menor valor para cada una de las tres caractersíticas (tres individuos en total, uno con menor valor en la primera característica, otro con menor valor en la segunda y un tercero con menor valor en la tercera) usando un enfoque basado en *distinct* **
 
-Solución (distinct):
+#### Carga de los datos del conjunto de datos 
 
-/* Carga de los datos del conjunto de datos */
+```
 measure = load 'input/airQualityEsId.csv' using PigStorage(';') AS (id:int, date:chararray, co:float, no:float, no2:float, o3:float, pm10:float, sh2:float, pm25:float, pst:float, so2:float, province:chararray, station:chararray);
+```
 
-/* Proyecto sobre la variable a la que quiero calcular la variabilidad */
+#### Proyecto sobre la variable a la que quiero calcular la variabilidad 
+
+```
 id = foreach measure generate id;
-/* Elimino los valores repetidos de la variable */
-distinctid = distinct id;
-/* Creo un único grupo (agrupo) con todos los valores distintos para poder contarlos */
-groupallids = group distinctid all;
-/* Cuento el número de elementos agrupados en el único grupo (todos), generando un individuo con dos valores: una cadena de caracteres con el nombre de la variable y la cuenta de los elementos */
-totalids = foreach groupallids generate 'id' as var, COUNT (distinctid.id) as many;
+```
 
-/* Repito el proceso para todas las demás variables del conjunto */
+#### Elimino los valores repetidos de la variable 
+
+```
+distinctid = distinct id;
+```
+
+#### Creo un único grupo (agrupo) con todos los valores distintos para poder contarlos 
+
+```
+groupallids = group distinctid all;
+```
+
+#### Cuento el número de elementos agrupados en el único grupo (todos), generando un individuo con dos valores: una cadena de caracteres con el nombre de la variable y la cuenta de los elementos 
+
+```
+totalids = foreach groupallids generate 'id' as var, COUNT (distinctid.id) as many;
+```
+
+#### Repito el proceso para todas las demás variables del conjunto 
+
+```
 date = foreach measure generate date;
 distinctdate = distinct date;
 groupalldates = group distinctdate all;
@@ -78,15 +93,27 @@ station = foreach measure generate station;
 distinctstation = distinct station;
 groupallstations = group distinctstation all;
 totalstations = foreach groupallstations generate 'station' as var, COUNT (distinctstation.station) as many;
+```
 
-/* Uno todos los individuos de tipo pareja (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) en una única población */
+#### Uno todos los individuos de tipo pareja (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) en una única población 
+
+```
 allvars = UNION totalids, totaldates, totalcos, totalnos, totalno2s, totalo3s, totalpm10s, totalsh2s, totalpm25s, totalpsts, totalso2s, totalprovinces, totalstations;
+```
 
-/* Ordeno la población de parejas por orden descendente sobre la cuenta del número de valores distintos */
+#### Ordeno la población de parejas por orden descendente sobre la cuenta del número de valores distintos 
+
+```
 allvarordered = order allvars by many desc;
+```
+#### Devuelvo las tres parejas (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) con mayores valores distintos de la variable
 
-/* Devuelvo las tres parejas (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) con mayores valores distintos de la variable */
+```
 biggest3 = limit allvarordered 3;
+```
 
-/* Muestro el resultado */
+#### Muestro el resultado 
+
+```
 dump biggest3;
+```
