@@ -1,0 +1,14 @@
+/* Make the left sidebar smaller */
+.sidebar {
+    width: 20%;  /* Reduce the sidebar width */
+}
+
+/* Make the right content section wider */
+.content {
+    width: 75%;  /* Increase the content width */
+}
+
+/* Remove the "View the Project on GitHub" line */
+a[href*="View the Project on GitHub"] {
+    display: none;
+}
