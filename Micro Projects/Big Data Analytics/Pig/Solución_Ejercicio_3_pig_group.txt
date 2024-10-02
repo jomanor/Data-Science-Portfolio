@@ -1,24 +1,38 @@
-Enunciado:
+### **(3) Determina las tres características de la población con mayor variabilidad. Obtener un individuo que tenga menor valor para cada una de las tres caractersíticas (tres individuos en total, uno con menor valor en la primera característica, otro con menor valor en la segunda y un tercero con menor valor en la tercera) usando un enfoque basado en *group***
 
-Determina las tres características de la población con mayor variabilidad.
-3.
-Obtener un individuo que tenga menor valor para cada una de las tres caractersíticas (tres individuos en total, uno con menor valor en la primera característica, otro con menor valor en la segunda y un tercero con menor valor en la tercera).
+#### Carga de los datos del conjunto de datos 
 
-Solución (group):
-
-/* Carga de los datos del conjunto de datos */
+```
 measure = load 'input/airQualityEsId.csv' using PigStorage(';') AS (id:int, date:chararray, co:float, no:float, no2:float, o3:float, pm10:float, sh2:float, pm25:float, pst:float, so2:float, province:chararray, station:chararray);
+```
 
-/* Proyecto sobre la variable a la que quiero calcular la variabilidad */
+#### Proyecto sobre la variable a la que quiero calcular la variabilidad 
+
+```
 id = foreach measure generate id;
-/* Creo grupos (agrupo) por valores iguales de la variable */
-groupid = group id by id;
-/* Creo un único grupo (agrupo) con todos los grupos creados para poder contarlos */
-groupallids = group groupid all;
-/* Cuento el número de elementos agrupados en el único grupo (todos), generando un individuo con dos valores: una cadena de caracteres con el nombre de la variable y la cuenta de los elementos */
-totalids = foreach groupallids generate 'id' as var, COUNT (groupid.id) as many;
+```
 
-/* Repito el proceso para todas las demás variables del conjunto */
+#### Creo grupos (agrupo) por valores iguales de la variable
+
+```
+groupid = group id by id;
+```
+
+#### Creo un único grupo (agrupo) con todos los grupos creados para poder contarlos 
+
+```
+groupallids = group groupid all;
+```
+
+#### Cuento el número de elementos agrupados en el único grupo (todos), generando un individuo con dos valores: una cadena de caracteres con el nombre de la variable y la cuenta de los elementos 
+
+```
+totalids = foreach groupallids generate 'id' as var, COUNT (groupid.id) as many;
+```
+
+#### Repito el proceso para todas las demás variables del conjunto 
+
+```
 date = foreach measure generate date;
 groupdate = group date by date;
 groupalldates = group groupdate all;
@@ -78,15 +92,28 @@ station = foreach measure generate station;
 groupstation = group station by station;
 groupallstations = group groupstation all;
 totalstations = foreach groupallstations generate 'station' as var, COUNT (groupstation.station) as many;
+```
 
-/* Uno todos los individuos de tipo pareja (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) en una única población */
+#### Uno todos los individuos de tipo pareja (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) en una única población 
+
+```
 allvars = UNION totalids, totaldates, totalcos, totalnos, totalno2s, totalo3s, totalpm10s, totalsh2s, totalpm25s, totalpsts, totalso2s, totalprovinces, totalstations;
+```
 
-/* Ordeno la población de parejas por orden descendente sobre la cuenta del número de valores distintos */
+#### Ordeno la población de parejas por orden descendente sobre la cuenta del número de valores distintos
+
+```
 allvarordered = order allvars by many desc;
+```
 
-/* Devuelvo las tres parejas (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) con mayores valores distintos de la variable */
+#### Devuelvo las tres parejas (cadena de caracteres con el nombre de la variable, cuenta de valores distintos de la variable) con mayores valores distintos de la variable 
+
+```
 biggest3 = limit allvarordered 3;
+```
 
-/* Muestro el resultado */
+#### Muestro el resultado 
+
+```
 dump biggest3;
+```
