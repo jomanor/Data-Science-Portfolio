@@ -1,6 +1,6 @@
 title: José María Manzano Ortega
-logo:
+#logo:
 description: Hola
 show_downloads: true
-theme: minima
+theme: jekyll-theme-minimal
 show_excerpts: false
