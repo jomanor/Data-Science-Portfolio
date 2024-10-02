@@ -1,5 +1,5 @@
 
-### ** (3) Determina las tres características de la población con mayor variabilidad. Obtener un individuo que tenga menor valor para cada una de las tres caractersíticas (tres individuos en total, uno con menor valor en la primera característica, otro con menor valor en la segunda y un tercero con menor valor en la tercera) usando un enfoque basado en *distinct* **
+### **(3) Determina las tres características de la población con mayor variabilidad. Obtener un individuo que tenga menor valor para cada una de las tres caractersíticas (tres individuos en total, uno con menor valor en la primera característica, otro con menor valor en la segunda y un tercero con menor valor en la tercera) usando un enfoque basado en *distinct***
 
 #### Carga de los datos del conjunto de datos 
 
