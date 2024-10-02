@@ -4,9 +4,7 @@
 
 This project is based on the **House Pricing Kaggle Competition**, where the objective is to predict house prices based on various features related to the property and its surroundings. 
 
----
-
-## Key Steps and Highlights 🔍
+### Key Steps and Highlights 🔍
 
 ### 1. Extensive Exploratory Data Analysis (EDA) 📈
 
@@ -43,9 +41,8 @@ This project is based on the **House Pricing Kaggle Competition**, where the obj
 
 Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, donde el objetivo es predecir los precios de las viviendas en función de varias características relacionadas con la propiedad y su entorno. 
 
----
 
-## Pasos Clave y Destacados 🔍
+### Pasos Clave y Destacados 🔍
 
 ### 1. Análisis Exploratorio de Datos 📈
 
@@ -75,9 +72,3 @@ Este proyecto se basa en la **Competición de Precios de Viviendas de Kaggle**, 
 
 - **Rendimiento del Modelo**: El modelo alcanzó un RMSE de **0.13**, lo que indica un alto nivel de precisión en la predicción de precios de viviendas.
 - **Importancia de Características**: Varios atributos ingenierizados, como las variables relacionadas con el tiempo y las estructurales, contribuyeron significativamente a las capacidades predictivas del modelo.
-
----
-
-## Conclusiones 🔍
-
-Este proyecto demuestra la importancia de un **Análisis Exploratorio de Datos (EDA)** exhaustivo, una **ingeniería de características** reflexiva y la elección del modelo adecuado para la tarea. Al incorporar una **Regresión CatBoost** avanzada y aplicar transformaciones significativas en los datos, el modelo logró un sólido rendimiento predictivo en la competencia de Kaggle.
