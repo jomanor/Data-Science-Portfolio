@@ -3,3 +3,6 @@ title: José María Manzano Ortega
 description: Hola
 show_downloads: true
 theme: jekyll-theme-minimal
+
+assets:
+  - assets/styles.css
