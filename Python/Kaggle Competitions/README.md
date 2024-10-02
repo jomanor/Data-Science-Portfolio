@@ -6,4 +6,4 @@ This folder contains the code and notebooks for various competitions I participa
 
 ### Descripción 🇪🇸
 
-Esta carpeta contiene el código y los notebooks de diversas competencias en las que participé en **Kaggle**. Cada proyecto demuestra diferentes técnicas y estrategias de aprendizaje automático aplicadas a conjuntos de datos del mundo real proporcionados por **Kaggle**.
+Esta carpeta contiene el código y los notebooks de algunas competiciones de **Kaggle**. Cada proyecto demuestra diferentes técnicas y estrategias de aprendizaje automático aplicadas a conjuntos de datos del mundo real proporcionados por la propia plataforma.
