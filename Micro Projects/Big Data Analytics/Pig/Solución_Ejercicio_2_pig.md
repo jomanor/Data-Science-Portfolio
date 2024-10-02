@@ -1,4 +1,4 @@
-### ** (2) A partir de los flujos separados en el ejercicio anterior obtener la máxima medida de CO2 y de PM10 por provincia en un sólo filtrado.**
+### **(2) A partir de los flujos separados en el ejercicio anterior obtener la máxima medida de CO2 y de PM10 por provincia en un sólo filtrado.**
 
 #### Cargar los tres flujos en tres relaciones
 
