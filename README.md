@@ -60,7 +60,7 @@ This project is designed to help HR professionals monitor and analyze workforce 
     - [Deep Learning (Tensorflow)](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Machine%20Learning/Deep%20Learning%20(Tensorflow))
     
 - ### Big Data Analytics
-    - [PySpark](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/PySpark)
+    - [Apache PySpark](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/PySpark)
     - [Pig (Hadoop)](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/Pig)
     
 - ### Coding Challenges
