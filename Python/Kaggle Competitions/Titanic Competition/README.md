@@ -4,9 +4,7 @@
 
 This project is based on the **Kaggle Titanic Survival Competition**, which aims to predict whether a passenger survived the sinking of the Titanic based on various demographic and social features. The project includes a comprehensive **Exploratory Data Analysis (EDA)**, **feature engineering**, and the use of **machine learning models** for classification.
 
----
-
-## Key Steps and Highlights 🔍
+### Key Steps and Highlights 🔍
 
 ### 1. Extensive Exploratory Data Analysis (EDA) 📈
 
@@ -43,9 +41,7 @@ This project is based on the **Kaggle Titanic Survival Competition**, which aims
 
 Este proyecto se basa en la **Competición de Supervivencia del Titanic de Kaggle**, cuyo objetivo es predecir si un pasajero sobrevivió al hundimiento del Titanic en función de varias características demográficas y sociales. El proyecto incluye un **Análisis Exploratorio de Datos (EDA)** exhaustivo, **ingeniería de características** y el uso de modelos de **aprendizaje automático** para realizar la clasificación.
 
----
-
-## Pasos Clave y Destacados 🔍
+### Pasos Clave 🔍
 
 ### 1. Análisis Exploratorio de Datos 📈
 
