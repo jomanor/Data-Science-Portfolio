@@ -10,13 +10,13 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 ### Python
 
-<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
+<img align="left" width="250" height="140" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
 
 In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
 
 ##
 
-<img align="left" width="240" height="150" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
+<img align="left" width="240" height="140" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Loan.jpg"> **[Loan Default Prediction](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Loan%20Prediction)** 
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default on a loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
