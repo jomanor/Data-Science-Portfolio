@@ -54,16 +54,16 @@ This project is designed to help HR professionals monitor and analyze workforce 
 
 ## Micro Projects
 - ### Machine Learning 
-    - [Clustering](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Machine%20Learning/Clustering) 
-    - [Deep Learning (Tensorflow)](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Machine%20Learning/Deep%20Learning%20(Tensorflow))
+    - [Clustering](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Machine%20Learning/Clustering): This folder contains a couple of clustering projects which show basic use and understanding of this useful unsupervised machine learning technique.
+    - [Deep Learning (Tensorflow)](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Machine%20Learning/Deep%20Learning%20(Tensorflow)): In this folder I show a few deep learning exercises that I completed as part of my work during my Master's Degree.
     
 - ### Big Data Analytics
-    - [Apache PySpark](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/PySpark)
-    - [Pig (Hadoop)](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/Pig)
+    - [Apache PySpark](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/PySpark): Here I show basic PySpark functionalities, as well as how to use classification models in this framework.
+    - [Pig (Hadoop)](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Micro%20Projects/Big%20Data%20Analytics/Pig): These are some of the Pig ETL exercises solved by me during my Master's Degree. 
     
 - ### Coding Challenges
-    - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20)
-    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges)
+    - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20): This folder contains some of the online SQL challenges that I worked on.
+    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges): Here can be found the Python notebooks of online challenges that I solved as a hobby.
  
 ## Core Competencies
 
