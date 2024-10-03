@@ -63,7 +63,7 @@ This project is designed to help HR professionals monitor and analyze workforce 
     
 - ### Coding Challenges
     - [SQL Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/SQL%20Challenges%20): This folder contains some of the online SQL challenges that I worked on.
-    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges): Here can be found the Python notebooks of online challenges that I solved as a hobby.
+    - [Python Challenges](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Challenges): Here are stored the Python notebooks of online challenges that I have solved as a hobby.
  
 ## Core Competencies
 
