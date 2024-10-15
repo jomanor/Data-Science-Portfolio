@@ -1,5 +1,10 @@
-# Data Science Portfolio - José María Manzano Ortega
-This portfolio showcases my Data Science and Data Analysis projects created for academic, self-learning, and personal interest purposes. It also highlights my achievements, skills, and certifications. I update it regularly to reflect my latest work.
+# Data Science Portfolio
+
+Welcome to my portfolio :). My name is José María, and I hold a Bachelor's degree in Physics. I am currently pursuing a Master's degree in Data Science, with only the final Master's project remaining. This project focuses on parallelization in Deep Learning models and Big Data analytics, and I will soon be updating this portfolio with the work completed so far.
+
+Moreover, I am excited to start my professional career in the field of Data Science. This portfolio serves as a display of my knowledge and consists of Data Science and Data Analysis projects created for academic, self-learning, and personal interest purposes. It also highlights my achievements, skills, and certifications. 
+
+Feel free to reach out!
 
 - **Email**: [josemaria16manzano@gmail.com](josemaria16manzano@gmail.com)
 - **LinkedIn**: [linkedin.com/jose-maría-manzano-ortega](https://www.linkedin.com/in/jose-maría-manzano-ortega-1b42052b2/)
@@ -12,7 +17,7 @@ This portfolio showcases my Data Science and Data Analysis projects created for 
 
 <img align="left" width="250" height="140" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/Imagen%20Molino.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Python%20Projects/Wind%20Turbine%20Power%20Curve)**
 
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
+Here I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields the lowest Test RMSE at 6.404. 
 
 ##
 
@@ -26,13 +31,12 @@ In this project I applied various classification models such as Logistic Regress
 
 <img align="left" width="220" height="180" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/TitanicIm.jpg"> **[Titanic - Machine Learning from Disaster](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/Titanic%20Competition)**
 
-In this project, the goal is to predict which passengers survived the Titanic disaster using a ML model. The model used is a Random Forest Classifier, achieving 80% accuracy. Fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance. This project is part of the Kaggle Titanic competition and shows how to handle missing data and model optimization for classification tasks.
-
+This project is part of the Kaggle Titanic competition and shows how to handle missing data and model optimization for classification tasks. The goal in this project is to predict which passengers survived the Titanic disaster using a ML model. The model used is a Random Forest Classifier, achieving 80% accuracy, being among the 4% performance top. Fine-tuning was performed to optimize hyperparameters and avoid overfitting, ensuring a balanced model performance.
 ##
 
 <img align="left" width="230" height="170" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/HousePredIm.jpg"> **[House Prices - Advanced Regression Techniques](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Python/Kaggle%20Competitions/House%20Pricing%20Competition)**
 
-This project focuses on predicting house prices based on various features from the Kaggle House Pricing competition. Using a CatBoost Regressor, the model achieves a RMSE of 0.13. Detailed data analysis and feature engineering, including handling missing data, transforming variables, and creating new features, were key to the model's success. The project highlights the importance of preprocessing and fine-tuning in regression problems.
+This project focuses on predicting house prices based on various features from the Kaggle House Pricing competition. Using a CatBoost Regressor, the model achieves a RMSE of 0.13. Detailed data analysis and feature engineering, including handling missing data, transforming variables and creating new features were key to the model's success. The project highlights the importance of preprocessing and fine-tuning in regression problems.
 
 ##
 
@@ -40,7 +44,7 @@ This project focuses on predicting house prices based on various features from t
 
 <img align="left" width="250" height="170" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/ClassificationRegressionIm.jpg"> **[R Complete Data Science Project](https://github.com/jomanor/Data-Science-Portfolio/tree/main/R%20Projects/Complete%20Data%20Science%20Project)**
 
-This R project focuses on implementing both regression and classification models using two different datasets: the California Housing dataset for regression tasks and the Bupa dataset for classification tasks. Each dataset is accompanied by a detailed Exploratory Data Analysis (EDA), which delves into data quality, feature engineering, and preprocessing. The project is documentated in Spanish.
+This R project focuses on implementing both regression and classification models using two different datasets: the California Housing dataset for regression tasks and the Bupa dataset for classification tasks. Each dataset is accompanied by a detailed Exploratory Data Analysis (EDA), which delves into data quality, feature engineering, and preprocessing. The project is deeply documentated in Spanish.
 
 ##
 
@@ -48,7 +52,7 @@ This R project focuses on implementing both regression and classification models
 
 <img align="left" width="230" height="160" src="https://raw.githubusercontent.com/jomanor/Data-Science-Portfolio/refs/heads/main/Images/HRDashboardim.jpg"> **[HR Dashboard](https://github.com/jomanor/Data-Science-Portfolio/tree/main/Tableau%20Projects/HR%20Dashboard)**
 
-This project is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of the employees, hires, terminations, and department distributions and a filterable employee records view.  
+This Tableau project is designed to help HR professionals monitor and analyze workforce metrics. It provides insights into employee demographics, performance, and salary distributions. Key features include a summary view; which offers an overview of the employees, hires, terminations, and department distributions and a filterable employee records view.  
 
 <br/>
 
