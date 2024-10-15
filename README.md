@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome to my portfolio :). My name is José María, and I hold a Bachelor's degree in Physics. I am currently pursuing a Master's degree in Data Science, with only the final Master's project remaining. This project focuses on parallelization in Deep Learning models and Big Data analytics, and I will soon be updating this portfolio with the work completed so far.
+Welcome to my portfolio!. My name is José María, and I hold a Bachelor's degree in Physics. I am currently pursuing a Master's degree in Data Science, with only the final Master's project remaining. This project focuses on parallelization in Deep Learning models and Big Data analytics, and I will soon be updating this portfolio with the work completed so far.
 
 Moreover, I am excited to start my professional career in the field of Data Science. This portfolio serves as a display of my knowledge and consists of Data Science and Data Analysis projects created for academic, self-learning, and personal interest purposes. It also highlights my achievements, skills, and certifications. 
 
